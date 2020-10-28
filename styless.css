@@ -68,7 +68,7 @@ h1{
 }
 
 .year{
-    font-size: 200px;
+    font-size: 150px;
     z-index: -1;
     opacity: 0.2;
     position: absolute;
